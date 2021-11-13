@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7E96D6C5-9AFF-E667-8C71-867E3F85CF47}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GopherHit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ClubMovement.cs" Line="20" Column="6" />
+      <File FileName="Assets/Scripts/GopherHit.cs" Line="33" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Get the Gopher" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="GopherHit.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fcf47d09-aa74-45fa-b745-65009b0fb192" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
